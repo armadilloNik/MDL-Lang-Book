@@ -1,4 +1,5 @@
-﻿!=.
+﻿mdlpage:001
+!=.
 \f-
 ii
 The
@@ -11,7 +12,7 @@ Massachusetts 02139
 
 
 
-2 The MDL Progratnrning Language
+mdlpage:002
 Abstract
 The MDI. |tro;ramtnin; lnttgttage began existence in late i970 (under the nattte Muddle) as a
 successor to l.i\|i tMnnn. i974). a ramlitlate vehicle for the Dynamic Modeling System. and a possible
@@ -42,8 +43,7 @@ Programming Languages
 (c) Copyright H179 Massacltusetts institute of Technology. All rights reserved.
 
 
-
-The MDL Programming Language 3
+mdlpage:003
 Acknowledgements
 I was not a tttetttber of the original group which labored for two years in the design and initial
 impletnetttation of Mttddle: that group was composed principally of Gerald Susstnan. Carl Hewitt.
@@ -79,7 +79,7 @@ he tgettce Laboratory) and printed on the Xerox Graphics Printer of the M.I.T. A
 Intelligence Laboratory.
 
 
-
+mdlpage:004
 4 The MDL Programming Language
 Foreword
 Trying to explain MDL to an uninitiate is somewhat like trying to untie a Gordian knot. Whatever
@@ -119,6 +119,7 @@ CTRL key and striking the other key.
 
 1 I
 I
+mdlpage:005
 The MDL Prngraunming Language 5
 List of Chapters
 Page Nann-
@@ -152,7 +153,7 @@ I
 I
 4
  
-
+mdlpage:006
 
 
 —
@@ -242,6 +243,7 @@ List of Sections
 The MDL Programming Language
 
 
+mdlpage:007
 
 The MDL Programming Language
 35
@@ -313,7 +315,7 @@ ss 7.5.2 QUOTE [I]
 List of Sections
 
 
-
+mdlpage:008
 8 The MDL Programming Language IE
 59 7.6 Unique Properties of Primitive 'I'YPEs
 59 7.6.I LIST (thc PRIHTYPEI [I]
@@ -361,7 +363,7 @@ as 7.1 sssmtrm [11
 List of Sections
 
 
-
+mdlpage:009
 -E-»——~—
 The MDL Prngnunlnlillg Language 9
 78 ‘ll "OPT lONI\L" [I]
@@ -410,7 +412,7 @@ I00 11.1.2.5 our
 List of Sections
 
 
-
+mdlpage:010
 I0
 I00
 I0]
@@ -509,7 +511,7 @@ The MDL Programming Language
 1
 1
 
-
+mdlpage:011
 
 The MDL Programming Language ll
 us u.|o.s nets
@@ -556,7 +558,7 @@ I I38 l5.l Basic Considerations
 List of Sections
 
 
-
+mdlpage:012
 15.2 0BLIS1s
 15.2.1 OBLIST Names
 15.2.2 HOBLIST
@@ -608,7 +610,7 @@ The MDL Programming Language
 1
 
 
-
+mdlpage:013
 The MDL Programming Language I5
 I59 Chapter I8. Machine Words and Bits
 I59 I8.l IIORIB
@@ -656,7 +658,7 @@ I78 21.2 EVENT
 List of Sections
 
 
-
+mdlpage:014
 I4 The MDL Programming Language
 I80 2l.5 IHEADER and HANDLER (the TYPEs)
 I80 2l.5.l IIIEADER
@@ -704,7 +706,7 @@ I99 22.9.2 PURIFY
 List of Sections
 
 
-
+mdlpage:015
 l
 20!
 '20l
@@ -765,7 +767,7 @@ Name Index
 List of Sections
 
 
-
+mdlpage:016
 u’-1
 I6 The MDL Programming Language
 Chapter 1. Basic Interaction
@@ -797,7 +799,7 @@ l
 i
 
 
-
+mdlpage:017
 The MDL Progrannning Language l7
 which you've typed) to be interpreted as an expression(s) in MDL. When this interpretation is done.
 the result will be printed and MDL will wait for more typing. ESC will be represented by the glyph
@@ -835,7 +837,7 @@ the next thing it prints will be the result of the evaluation. Thus. if a plain 
 1.2 Basic Interaction
 
 
-
+mdlpage:018
 I8 The MDL Programming Language
 have some cxpressiott ttnclosed. ln that case. if you have not typed any characters beyond the S,
 you can usually rub nnt the $ and other characters back to the beginning of the unclosed expression.
@@ -869,7 +871,7 @@ whatever was going on. ln particular. you can recover from an error - that is, u
 l.2 - l.4 Basic Interaction
 
 
-
+mdlpage:019
 w Tltc MDL Progratnnting Language 19
 3‘ side effects and return In the initial typing phase - by typing the following first line. to which
 1 MDL will rcspond with the second lino:
@@ -890,6 +892,7 @@ I
 
 
 =-—
+mdlpage:020
 20 The MDL Programming Language
 Chapter 2. Read, Evaluate, and Print
 2.l. General Ll]
@@ -915,7 +918,7 @@ particular MDL object depend ttpott tlte class of MDL objects to which it belong
 2 - 2-7 Read. Evaluate. and Print
 
 
-
+mdlpage:021
 The MDL Programming Language 21
 TYPE of the MDL object. Every MDL object has a TYPE. and every TYPE has its own peculiarities.
 There are litany different TYPEs in MDL: they will gradually be introduced below. but in the
@@ -948,7 +951,7 @@ representation of the corresponding integer.
 2.2 - 2.3 Read. Evaluate. and Print
 
 
-
+mdlpage:022
 III" K
 22 The MDL Programming Language
 2.4. Exatngle (TYPE FLOAT} [I1
@@ -992,6 +995,7 @@ l
 t
 t
 l
+mdlpage:023
 The MDL Progratnnting Language 23
 represeltlatimt is decimal by default. A - (hyphen) immediately preceding such a grouping
 represents a |tet_.;ative FIX. The largest FIX representable on the PDP-10 is two to the 35th power
@@ -1031,7 +1035,7 @@ radix). The smallest-tttagnitttde FLOAT wltich can be handled without underflow 
 ' 
 
 
-
+mdlpage:024
 24 The MDL Programming Language
 2.6.3. READ and l"NAl‘|[s
 The question "tvltat is a legal PN!\ME?" is actually ttot a reasonable one to ask: any non-empty string
@@ -1067,7 +1071,7 @@ they are not. in some cases. complete objects: hence. READ would continue waitin
 2-5-3 - 2-5-3-2 Read. Evaluate. and Print
 
 
-
+mdlpage:025
 The MDL Prngratntttittg Language 25
 be closed. In other cases. they will produce errors during EVALuation if other -- currently irrelevant
 -- contlitinm are not mt-t. Instead. the right-hand column will be used to state just what READ
@@ -1100,7 +1104,7 @@ tnatter where you originally typed the \(or \s).
 2.0.3.2 - 2.6.3.3 Read. Evaluate. and Print
 
 
-
+mdlpage:026
 26 The MDL Programming Language
 2.6.3.4. Emmples nf Awful I\l0Hs
 The following cxainplcs illustrate the amount of insanity that can be perpetrated by using \- Th!
@@ -1124,7 +1128,7 @@ I
 1.
 
 
-
+mdlpage:027
 The MDL Progranuning Language 27
 Chapter 3. Built-in Functions
 3.]. Repre_s§tltg_l§1p_ﬂ]
@@ -1151,7 +1155,7 @@ local. in that nrder -- see ttcxt chapter). lf it is not an ATOM, EVAL it and lo
 3 - 3.2 Built-in Functions
 
 
-
+mdlpage:028
 _ i _;_ i _  
 28 The MDL Programming Language
 evaluation. tr what you are looking at is not something which can be applied to arguments.
@@ -1188,7 +1192,7 @@ FLOAT does the opposite.
 3.2 - 3.4 Built-in Functions
 
 
-
+mdlpage:029
 The MDL Progratnttting Language 29
 ll
 (SORT <0 <" 3 3) (' 4 4)>)$
@@ -1226,7 +1230,7 @@ seeds are tlte ttttttthers given by TIME (wlticlt see). possibly with bits modif
 3.4 - 3.5 Built-in Functions
 
 
-
+mdlpage:030
 30 The MDL Programming Language
 Chapter 4. Values of Atoms
 4.l.Gen_t1al]|[
@@ -1252,7 +1256,7 @@ number 500.
 4 - 4.2.1 Values of Atoma
 
 
-
+mdlpage:031
 The MDL Progratuuting Language 3|
 F00
 That made the global value of the ATOM BAR equal to the ATOM F00.
@@ -1284,7 +1288,7 @@ Supplied routines work. you are perfectly free to SETS the ATOMs to your own ver
 4.2,] . 4.2.3 Values of Atoms
 
 
-
+mdlpage:032
 32 The MDL Programming Language
 4.2.4. GUNASSIGN
 ( GUNASSIGN atom)
@@ -1312,7 +1316,7 @@ corresponding MDL object. it returns the current local value of atom:
 4.2.4 - 4.3.2 Values of Atoms
 
 
-
+mdlpage:033
 1* 11,; MDL Progrannning Language 38
 The local \-alne of an ATOM is unique within a PROCESS. SETting an ATOH in one PROCESS has no
 effect on its LV/\L in another PROCESS, because each PROCESS has its own ‘control stack‘ (chapters
@@ -1351,7 +1355,7 @@ i <SET A 2>s
 i
 
 
-
+mdlpage:034
 i
 1
 I
@@ -1376,6 +1380,7 @@ u
 
 age
 ns
+mdlpage:035
 The MDL Progranttning Language 35
 Chapter 5. Simple Functions
 5.l. General |l|
@@ -1406,6 +1411,7 @@ IFUNCTION (elements)
 
 
  ‘
+ mdlpage:036
 36 The MDL Programming Language
 that is. a number sign. the ATOM FUNCTION, a left parenthesis. each of the elements of the
 FUNCTION, antl a right pan-ntItt~sis. Sittce PRINT represents FUNCTIONs like this. you can type them
@@ -1443,6 +1449,7 @@ applied the tttdicatvtl FUNCTION to 5 attd returned 25.
 T  
 I
 1
+mdlpage:037
 ,e ) The MDL Prograuttttittg Language 37 Y
 Q What EVAL does when applying a FUNCTION is tlte following:
 I
@@ -1484,6 +1491,7 @@ i .
 
 
 -s  
+mdlpage:038
 38 The MDL Programming Language
 On the other hand.
 (SET Y 0)!
@@ -1523,6 +1531,7 @@ month (two wec-Its?) later.
 8
 -f
 I‘<lIfIZIlI
+mdlpage:039
 The MDL Programnting Language 39
 '||i_|Ig_j._|_N_Cl I§Ns [FUNCTION and DEFINE} |l|
 5 -i Deft___
@@ -1562,6 +1571,7 @@ be used itt the rest of this document.
 
 
 “F”
+mdlpage:040
 40 The MDL Programming Language
 [Actt|2tlly. if it is absnllttcly necessary to use DEFINE to ‘redefine’ things. there is a ‘switch’ which
 can be used: if the LVAL of the ATOM REDEFINE is T (or anything not of TYPE FALSE). DEFINE will
@@ -1612,6 +1622,7 @@ T
 
 
 I
+mdlpage:041
 .gQ The MDL Prngrantnting Language 4|
 ch 1 MDL doesn't have a general "to the power‘ SUBR, so let's define one using LOG and EXP (log base e.
 -i|| f and e to a power. respectively: again. they return FLOATs).
@@ -1656,7 +1667,7 @@ INC. tltc ATOM ATM is SET to the ATOM which is its argument; thus ..ATH returns 
 9 5.5 Simple Functions
 
 
-
+mdlpage:042
 42 The MDL Programming Language
 (SET ATM 0>$
 0
@@ -1703,6 +1714,7 @@ age
 We
 '|ust
 awn
+mdlpage:043
 The MDL Prograntming Language 43
 Chapter 6. Data Types
 6.l. General |l[
@@ -1732,6 +1744,7 @@ READ will understand that format for Qty TYPE, and PRINT will use it by default.
 
 
 -
+mdlpage:044
 44 The MDL Programming Language
 representational format will be referred to below as ‘I notation’. It was used above to represent
 F UNCTIONs.
@@ -1769,6 +1782,7 @@ UORD
 
 
 I
+mdlpage:045
 ge The MDL Progrannning Language 45
 wono
 , <PRIHTYPE ,+>s
@@ -1813,7 +1827,7 @@ i
 L
 
 
-
+mdlpage:046
 46 The MDL Programming Language
 obscurity: liccattsr nf their internal representations on the PDP-10. <CHTYPE (MAX) FIX) gives the
 least possible FIX, antl analngnnsly for HIPL]
@@ -1894,6 +1908,7 @@ A_-_. -—L>
 it
 t
 I
+mdlpage:047
 The MDL Programming Language 47
 ‘his ¢(|rrp\|l0Il(|(‘ll(‘(‘. nf writing it dowtt for all to see and use rather than keeping it in your head.
 If the defining set of programs provides functions for manipulating the NEVTYPE objects in all
@@ -1938,7 +1953,7 @@ is typically more usel'nl to a programmer during development than it is to the c
 
 
 
- 
+ mdlpage:048
 48 The MDL Programming Language
 returns atom. aftcr rausing it to become the represetttalion of a brand-new TYPE whose PRIHTYPE is
 <TYPEPRItl f\'D!‘). What NEVIYPE actually does is make atom a legal argument to CHTYPE and
@@ -1985,6 +2000,7 @@ lied
 Ted
 my
 not
+mdlpage:049
 The MDL Prngraniming Language 49
 for PRINTIYPE. how should lake one argument: the object being output. how should output
 gqllltlillllg witlpnlll formatting (PRINI-style): its result is ignored. (Note: how cannot use an output
@@ -2056,7 +2072,7 @@ V»)
 Data Types
 
 
-
+mdlpage:050
 The MDL Programming Language
 (PRINC <1 .V))
 <PR1NC <1 .V)))
@@ -2103,7 +2119,7 @@ Q44
 Daaljpu
 
 
-
+mdlpage:051
 The MDL Programming Language
 51
 The following sequence makes MDL look just like Lisp. (This example is understandable only if
